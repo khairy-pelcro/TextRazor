@@ -1,0 +1,14 @@
+{
+    "name": "bakrpx/textrazor",
+    "description": "Laravel SDK for the TextRazor Text Analytics API",
+    "require": {
+        "textrazor/textrazor-php": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Khairy Bakr",
+            "email": "bakrpx@gmail.com"
+        }
+    ]
+}

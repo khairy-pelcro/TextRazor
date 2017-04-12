@@ -1,0 +1,32 @@
+[
+    {
+        "name": "textrazor/textrazor-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/TextRazor/textrazor-php.git",
+            "reference": "d4c82f84cc6292124b6c5d729408dc7b96e4a554"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/TextRazor/textrazor-php/zipball/d4c82f84cc6292124b6c5d729408dc7b96e4a554",
+            "reference": "d4c82f84cc6292124b6c5d729408dc7b96e4a554",
+            "shasum": ""
+        },
+        "time": "2017-01-17T17:43:46+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "."
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "PHP SDK for the TextRazor Text Analytics API",
+        "homepage": "https://github.com/TextRazor/textrazor-php"
+    }
+]

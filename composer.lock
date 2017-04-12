@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "327b285d54de04f0c77fe93586d1ddcd",
+    "packages": [
+        {
+            "name": "textrazor/textrazor-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TextRazor/textrazor-php.git",
+                "reference": "d4c82f84cc6292124b6c5d729408dc7b96e4a554"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TextRazor/textrazor-php/zipball/d4c82f84cc6292124b6c5d729408dc7b96e4a554",
+                "reference": "d4c82f84cc6292124b6c5d729408dc7b96e4a554",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "."
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "PHP SDK for the TextRazor Text Analytics API",
+            "homepage": "https://github.com/TextRazor/textrazor-php",
+            "time": "2017-01-17 17:43:46"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "textrazor/textrazor-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
