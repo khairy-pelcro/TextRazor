@@ -15,5 +15,5 @@
         "psr-4": {
             "Bakrpx\\TextRazor\\": "src/"
         }
-    },
+    }
 }
