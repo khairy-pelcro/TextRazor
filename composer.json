@@ -10,5 +10,10 @@
             "name": "Ahmed Khairy Bakr",
             "email": "bakrpx@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bakrpx\\TextRazor\\": "src/"
+        }
+    },
 }
